@@ -1,0 +1,35 @@
+.search {
+    width: 453px;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.search__input {
+    width: 401px;
+    height: 44px;
+    padding-left: 10px;
+    border: #FFBE1F 2px solid;
+    border-radius: 8px 0 0 8px;
+}
+
+.search__button {
+    width: 52px;
+    height: 44px;
+    background: #FFBE1F;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    border-radius: 0px 8px 8px 0px;
+}
+
+.btsear {
+    width: 25px;
+    height: 25px;
+}
+
+.search__input::selection {
+    border: #FFBE1F 2px solid;
+}

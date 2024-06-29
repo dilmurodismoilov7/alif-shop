@@ -1,0 +1,14 @@
+.products{
+    display: grid;
+    grid-template-columns: repeat(6, 190px);
+    gap: 5.5px;
+}
+
+.product{
+    
+    
+}
+
+.product img{
+    width: 150px;
+}

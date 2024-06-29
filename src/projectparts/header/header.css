@@ -1,0 +1,40 @@
+.header {
+    width: 1128px; ;
+    height:auto ;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.header__top__nav {
+    display: flex;
+    align-items: center;
+    gap: 16.64px;
+}
+
+.htnl {
+    color: #788988;
+}
+
+.htnl:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+.htnl1 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: black;
+}
+
+.SW {
+    margin-top: 20px !important;
+}
+
+.mySwiper {
+    width: 1128px !important;
+}
+
+.SWPIMG {
+    width: 1128px !important;
+}
